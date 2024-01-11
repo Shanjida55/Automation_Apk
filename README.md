@@ -14,8 +14,8 @@ verifying cart contents, and completing a checkout form. Vysor will stream the t
 7.Chai and Mocha
 8.Allure Command-Line Tool
 ## Here's a glimpse of our Allure Report, showcasing the results of automated mobile app testing.
-<img width="916" alt="image" src="https://github.com/Shanjida55/Automation_Apk/assets/99314305/1e7eb4d3-7207-4c8b-83de-fc1c0e69e810">
-<img width="924" alt="image" src="https://github.com/Shanjida55/Automation_Apk/assets/99314305/5fc7cc8c-a0b1-42f0-8a23-f805f96ec637">
-<img width="911" alt="image" src="https://github.com/Shanjida55/Automation_Apk/assets/99314305/c9a5ada6-cc23-4b09-934c-6e09ac24feb2">
+<img width="915" alt="image" src="https://github.com/Shanjida55/Automation_Apk/assets/99314305/9dc8c9b8-9f3d-472a-9dda-0ba8afaff8d0">
+<img width="922" alt="image" src="https://github.com/Shanjida55/Automation_Apk/assets/99314305/c0d849cf-c3c6-463f-abb6-f9f5b4f8871e">
+<img width="910" alt="image" src="https://github.com/Shanjida55/Automation_Apk/assets/99314305/32d5afae-a797-43df-a12a-74f4adb5d3f0">
 
 ### Happy automating!
