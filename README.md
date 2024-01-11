@@ -5,14 +5,14 @@ We'll simulate a user journey through an app on a real Android device, covering 
 verifying cart contents, and completing a checkout form. Vysor will stream the test execution, providing visual confirmation of each step.
 
 ## Prerequisites:
-1.Node.js and npm
-2.Android Studio
-3.WebDriverIO
-4.Appium
-5.Appium Server
-6.Vysor
-7.Chai and Mocha
-8.Allure Command-Line Tool
+-Node.js and npm
+-Android Studio
+-WebDriverIO
+-Appium
+-Appium Server
+-Vysor
+-Chai and Mocha
+-Allure Command-Line Tool
 ## Here's a glimpse of our Allure Report, showcasing the results of automated mobile app testing.
 <img width="915" alt="image" src="https://github.com/Shanjida55/Automation_Apk/assets/99314305/9dc8c9b8-9f3d-472a-9dda-0ba8afaff8d0">
 <img width="922" alt="image" src="https://github.com/Shanjida55/Automation_Apk/assets/99314305/c0d849cf-c3c6-463f-abb6-f9f5b4f8871e">
